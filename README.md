@@ -1,4 +1,4 @@
-#Guess My Number
+# Guess My Number
 
 # About the project
 Simple game.
